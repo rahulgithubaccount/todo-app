@@ -1,0 +1,8 @@
+.fa-trash-alt:before, .fa-trash-can:before {
+  content: "\f2ed";
+  
+}
+
+body{
+  background-color: #1d4e66;
+}
